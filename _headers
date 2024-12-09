@@ -1,2 +1,2 @@
-Content-Security-Policy: frame-ancestors 'self' https://codepen.io;
+Content-Security-Policy: frame-ancestors 'self' https://codepen.io https://captur3d.io;
 X-Frame-Options: ALLOWALL
